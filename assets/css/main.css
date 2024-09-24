@@ -1548,13 +1548,13 @@ body.body {
   --ztc-text-text-2: #fff;
   --ztc-text-pera-text-1: #676879;
   --ztc-text-pera-text-2: #D2D1D5;
-  --ztc-bg-main-bg-1: #0E38B1;
-  --ztc-bg-main-bg-2: #6E18EF;
-  --ztc-bg-main-bg-3: #113ADC;
+  --ztc-bg-main-bg-1: #220960;
+  --ztc-bg-main-bg-2: #5723d8;
+  --ztc-bg-main-bg-3: #220960;
   --ztc-bg-main-bg-4: #A1E934;
-  --ztc-bg-bg-1: #F8F9FA;
+  --ztc-bg-bg-1: #e8f0fd;
   --ztc-bg-color-w: #fff;
-  --ztc-bg-bg-2: #E7EBF7;
+  --ztc-bg-bg-2: #e8f0fd7;
   --ztc-bg-bg-3: #f5f5f8;
   --ztc-bg-bg-4: #1E182D;
   --ztc-bg-bg-5: #342F42;
@@ -2240,7 +2240,7 @@ body.body {
 }
 
 .video-play-button:hover:after {
-  background-color: #0a2982;
+  background-color: #e8f0fd;
 }
 
 .video-play-button img {
@@ -2936,7 +2936,7 @@ a.header__search.header-search-btn p {
   color: #fff;
   transform: translateY(-4px);
   transition: all 0.4s;
-  background-color: #3059CE;
+  background-color: #5723d8;
 }
 .theme-btn1:hover::after {
   width: 100%;
@@ -2986,7 +2986,7 @@ a.header__search.header-search-btn p {
   color: #fff;
   transform: translateY(-4px);
   transition: all 0.4s;
-  background-color: #3059CE;
+  background-color: #5723d8;
 }
 .cta-btn1:hover::after {
   width: 100%;
@@ -3042,8 +3042,8 @@ a.header__search.header-search-btn p {
   color: #fff;
   transform: translateY(-4px);
   transition: all 0.4s;
-  background-color: #3059CE;
-  border: 1px solid #3059CE;
+  background-color: #220960;
+  border: 1px solid #220960;
 }
 .cta-btn2:hover::after {
   width: 100%;
