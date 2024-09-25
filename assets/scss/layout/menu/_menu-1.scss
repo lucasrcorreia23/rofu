@@ -2015,8 +2015,16 @@
 
   .mobile-sidebar {
     .logo-m {
-      margin-top: -40px;
+      margin-top: -32ppx;
       margin-bottom: 30px;
+      img {
+        max-width: 130px;
+      }
+    }
+    .logo-m .img {
+     
+        max-width: 130px;
+      
     }
 
     .mobile-button {
@@ -2026,6 +2034,8 @@
         margin-top: 30px;
         margin-bottom: 30px;
       }
+
+      
     }
 
 

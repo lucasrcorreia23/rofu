@@ -10668,6 +10668,12 @@ a.header__search.header-search-btn p {
   NAV MENU AREA CSS
  ::::::::::::::::::::::::::
  */
+ .logo-m {
+  margin-top: -32px!important;
+  margin-bottom: 30px;
+ 
+}
+
 .header-area {
   padding: 12px 0;
   position: absolute;
