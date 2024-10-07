@@ -4636,8 +4636,9 @@ a.header__search.header-search-btn p {
 }
 .details-post-area .boxs-area ul {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
 }
 .details-post-area .boxs-area ul li {
   display: inline-block;
@@ -4651,6 +4652,7 @@ a.header__search.header-search-btn p {
   margin-top: 20px;
   min-width: 250px;
   transition: all 0.4s;
+  line-height: 150%;
 }
 .details-post-area .boxs-area ul li span.check {
   display: inline-block;
