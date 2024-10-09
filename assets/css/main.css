@@ -4147,7 +4147,7 @@ a.header__search.header-search-btn p {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: flex-start;
 }
 .service .single-box .icon {
   background-color: var(--ztc-bg-bg-2);
