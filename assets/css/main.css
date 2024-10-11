@@ -8935,7 +8935,7 @@ a.header__search.header-search-btn p {
   transition: all 0.4s;
 }
 .work .single-items:hover .icon {
-  background-color: var(--ztc-bg-main-bg-1);
+  background-color: var(--ztc-bg-bg-1);
   transition: all 0.4s;
 }
 .work .heading1 {
