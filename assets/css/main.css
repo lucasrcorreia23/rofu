@@ -6344,6 +6344,10 @@ a.header__search.header-search-btn p {
  HERO AREA CSS
 ::::::::::::::::::::::::::
 */
+
+body > div.header-top > div > div > div > div > p > img{
+  width:4%;
+}
 .hero1 {
   min-height: 980px;
   display: flex;
